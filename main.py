@@ -8,7 +8,8 @@ play(player, quincy, 1000)
 play(player, abbey, 1000)
 play(player, kris, 1000)
 play(player, mrugesh, 1000)
-# play(player, mrugesh, 20, verbose=True)
+# play(player, quincy, 20)
+# play(player, abbey, 200, verbose=False)
 
 # Uncomment line below to play interactively against a bot:
 # play(human, abbey, 20, verbose=True)

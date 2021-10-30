@@ -6,6 +6,7 @@ authors = ["omn1vor <<>>"]
 
 [tool.poetry.dependencies]
 python = "^3.8"
+markovify = "^0.9.3"
 
 [tool.poetry.dev-dependencies]
 

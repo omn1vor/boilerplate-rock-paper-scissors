@@ -9,7 +9,7 @@ play(player, abbey, 1000)
 play(player, kris, 1000)
 play(player, mrugesh, 1000)
 # play(player, quincy, 20)
-# play(player, abbey, 200, verbose=False)
+# play(player, abbey, 20, verbose=False)
 
 # Uncomment line below to play interactively against a bot:
 # play(human, abbey, 20, verbose=True)
@@ -20,4 +20,4 @@ play(player, mrugesh, 1000)
 
 
 # Uncomment line below to run unit tests automatically
-# main(module='test_module', exit=False)
+main(module='test_module', exit=False)
